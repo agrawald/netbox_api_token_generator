@@ -1,6 +1,5 @@
-=====
-netbox-api-token-generator
-=====
+# netbox-api-token-generator
+
 A Django Netbox plugin to expose API token generation API using basic authorization header
 
 This Django Netbox plugin will expose a REST API 
