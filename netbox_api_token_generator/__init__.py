@@ -6,7 +6,7 @@ class ApiTokenGeneratorConfig(PluginConfig):
     description = 'Plugin for generating API token for a user'
     version = '0.1'
     author = 'Dheeraj Agrawal'
-    author_email = 'dheeraj.agrawal@cyber.gov.au'
+    author_email = 'agrawal.dheeraj.7@gmail.com'
     base_url = 'token'
     required_settings = []
     default_settings = {
